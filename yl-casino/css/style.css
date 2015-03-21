@@ -304,6 +304,45 @@ a:focus {
     -o-background-size: cover;
 }
 
+.tranYLYP-section {
+    width: 100%;
+    height: 600px;
+    padding: 50px 0;
+    color: #fff;
+    background: url(../img/casino7.png) no-repeat center center scroll;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.tranGames-section {
+    width: 100%;
+    height: 600px;
+    padding: 50px 0;
+    color: #fff;
+    background: url(../img/casino8.png) no-repeat center center scroll;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.tranPrizes-section {
+    width: 100%;
+    height: 600px;
+    padding: 50px 0;
+    color: #fff;
+    background: url(../img/casino9.png) no-repeat center center scroll;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 #map {
     width: 100%;
     height: 200px;

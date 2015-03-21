@@ -56,10 +56,16 @@
                         <a class="page-scroll" href="#about">About</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#download">YLYP</a>
+                        <a class="page-scroll" href="#ticket">Tickets</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
+                        <a class="page-scroll" href="#games">Games</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#prizes">Prizes</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#map">Location</a>
                     </li>
                 </ul>
             </div>
@@ -96,34 +102,34 @@
                 <p>For more information about the night please feel free to explore the rest of the page!</p>
                 <ul class="list-inline banner-social-buttons">
                     <li>
-                        <a href="#" class="btn btn-default btn-lg"><i class="fa fa-map-marker"></i> <span class="network-name">Location</span></a>
+                        <a href="#map" class="page-scroll btn btn-default btn-lg"><i class="fa fa-map-marker"></i> <span class="network-name">Location</span></a>
                     </li>
                     <li>
-                        <a href="#" class="btn btn-default btn-lg"><i class="fa fa-pied-piper-alt"></i> <span class="network-name">Dress Code</span></a>
+                        <a href="#map" class="page-scroll btn btn-default btn-lg"><i class="fa fa-pied-piper-alt"></i> <span class="network-name">Dress Code</span></a>
                     </li>
                     <li>
-                        <a href="#" class="btn btn-default btn-lg"><i class="fa fa-calendar"></i> <span class="network-name">Date and Time</span></a>
-                    </li>
-                </ul>
-            	</br>
-                <ul class="list-inline banner-social-buttons">
-                    <li>
-                        <a href="#" class="btn btn-default btn-lg"><i class="fa fa-life-ring"></i> <span class="network-name">Games</span></a>
-                    </li>
-                    <li>
-                        <a href="#" class="btn btn-default btn-lg"><i class="fa fa-cutlery"></i> <span class="network-name">Refreshments</span></a>
-                    </li>
-                    <li>
-                        <a href="#" class="btn btn-default btn-lg"><i class="fa fa-gift"></i> <span class="network-name">Prizes</span></a>
+                        <a href="#map" class="page-scroll btn btn-default btn-lg"><i class="fa fa-calendar"></i> <span class="network-name">Date and Time</span></a>
                     </li>
                 </ul>
             	</br>
                 <ul class="list-inline banner-social-buttons">
                     <li>
-                        <a href="#download" class="page-scroll btn btn-default btn-lg"><i class="fa fa-users"></i> <span class="network-name">YLYP</span></a>
+                        <a href="#games" class="page-scroll btn btn-default btn-lg"><i class="fa fa-life-ring"></i> <span class="network-name">Games</span></a>
                     </li>
                     <li>
-                        <a href="#ticket" class="btn btn-default btn-lg"><i class="fa fa-ticket"></i> <span class="network-name">Tickets</span></a>
+                        <a href="#map" class="page-scroll btn btn-default btn-lg"><i class="fa fa-cutlery"></i> <span class="network-name">Refreshments</span></a>
+                    </li>
+                    <li>
+                        <a href="#prizes" class="page-scroll btn btn-default btn-lg"><i class="fa fa-gift"></i> <span class="network-name">Prizes</span></a>
+                    </li>
+                </ul>
+            	</br>
+                <ul class="list-inline banner-social-buttons">
+                    <li>
+                        <a href="#YLYP" class="page-scroll btn btn-default btn-lg"><i class="fa fa-users"></i> <span class="network-name">YLYP</span></a>
+                    </li>
+                    <li>
+                        <a href="#ticket" class="page-scroll btn btn-default btn-lg"><i class="fa fa-ticket"></i> <span class="network-name">Tickets</span></a>
                     </li>
                 </ul>
             </div>
@@ -158,25 +164,54 @@
         </div>
     </section>
 
-    <!-- Get involved with YLYP -->
-    <section id="download" class="content-section text-center">
-        <div class="download-section">
+    <!-- TranGames  -->
+    <section id="tranGames" class="content-section text-center tran">
+        <div class="tranGames-section">
             <div class="container">
                 <div class="col-lg-8 col-lg-offset-2">
-                    <h2>Getting involved with YLYP</h2>
-                    <p>To get more involved with the Young Life Young Professional community, join the Facebook Group and reach out to Gary Peters.</p>
-                    <a href="https://www.facebook.com/groups/1512768959005693/" class="btn btn-default btn-lg">Visit YLYP Facebook Page</a>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Contact Section -->
-    <section id="contact" class="container content-section text-center">
+    <!-- Games Section -->
+    <section id="games" class="container content-section text-center">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Games!</h2>
                 <p>We have all sorts of games!</p>
+                <p>WOO!</p>
+                <ul class="list-inline banner-social-buttons">
+                    <li>
+                        <a href="#" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+                    </li>
+                    <li>
+                        <a href="#" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                    </li>
+                    <li>
+                        <a href="#" class="btn btn-default btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Google+</span></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- TranPrizes  -->
+    <section id="tranPrizes" class="content-section text-center tran">
+        <div class="tranPrizes-section">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Prizes Section -->
+    <section id="prizes" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Prizes!</h2>
+                <p>We have all sorts of prizes!</p>
                 <p>WOO!</p>
                 <ul class="list-inline banner-social-buttons">
                     <li>
@@ -212,6 +247,27 @@
                     <div class="col-md-8 col-md-offset-2">
                     </div>
                 </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- TranYLYP  -->
+    <section id="tranYLYP" class="content-section text-center tran">
+        <div class="tranYLYP-section">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Get involved with YLYP -->
+    <section id="YLYP" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Getting involved with YLYP</h2>
+                    <p>To get more involved with the Young Life Young Professional community, join the Facebook Group and reach out to Gary Peters.</p>
+                    <a href="https://www.facebook.com/groups/1512768959005693/" class="btn btn-default btn-lg">Visit YLYP Facebook Page</a>
             </div>
         </div>
     </section>
