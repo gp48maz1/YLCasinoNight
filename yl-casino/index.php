@@ -91,39 +91,44 @@
         </div>
     </header>
 
-    <!-- About Section -->
-    <section id="about" class="container content-section text-center">
+    <!-- Map Section -->
+    <!-- <div id="map"></div> -->
+    <section id="map" class="container content-section text-center">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-                <h2>About YL Casino Night Fundraiser</h2>
-                <p>The Young Life Casino Night Fundraiser will be a great opportunity to play your favorite casino games including Roullette, Black Jack, Texas Hold'Em and more -- As well as a great opportunity to meet other involved young professionals in the Nashville community.</p>
-                <p>The funds from the night will be used to help send in-need high school students to Young Life Camp. For more info about Young Life check out there site at <a href="http://www.younglife.org">www.younglife.org</a></p>
-                <p>Please purchase tickets by following the <a href="https://www.eventbrite.com/e/nashville-young-life-casino-fundraiser-tickets-16243360328"> link </a></p>
-                <p>For more information about the night please feel free to explore the rest of the page!</p>
+            <!-- Title -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <h3>The Important Info</h3>
+                </div>
+            </div>
+            <!-- /.row -->
+
+            <!-- buttons-->
+            <section>
                 <ul class="list-inline banner-social-buttons">
                     <li>
-                        <a href="#map" class="page-scroll btn btn-default btn-lg"><i class="fa fa-map-marker"></i> <span class="network-name">Location</span></a>
+                        <a href="#location" class="page-scroll btn btn-default btn-lg"><i class="fa fa-map-marker"></i> <span class="network-name">Location</span></a>
                     </li>
                     <li>
-                        <a href="#map" class="page-scroll btn btn-default btn-lg"><i class="fa fa-pied-piper-alt"></i> <span class="network-name">Dress Code</span></a>
+                        <a href="#location" class="page-scroll btn btn-default btn-lg"><i class="fa fa-pied-piper-alt"></i> <span class="network-name">Dress Code</span></a>
                     </li>
                     <li>
-                        <a href="#map" class="page-scroll btn btn-default btn-lg"><i class="fa fa-calendar"></i> <span class="network-name">Date and Time</span></a>
+                        <a href="#location" class="page-scroll btn btn-default btn-lg"><i class="fa fa-calendar"></i> <span class="network-name">Date and Time</span></a>
                     </li>
                 </ul>
-            	</br>
+                </br>
                 <ul class="list-inline banner-social-buttons">
                     <li>
                         <a href="#games" class="page-scroll btn btn-default btn-lg"><i class="fa fa-life-ring"></i> <span class="network-name">Games</span></a>
                     </li>
                     <li>
-                        <a href="#map" class="page-scroll btn btn-default btn-lg"><i class="fa fa-cutlery"></i> <span class="network-name">Refreshments</span></a>
+                        <a href="#location" class="page-scroll btn btn-default btn-lg"><i class="fa fa-cutlery"></i> <span class="network-name">Refreshments</span></a>
                     </li>
                     <li>
                         <a href="#prizes" class="page-scroll btn btn-default btn-lg"><i class="fa fa-gift"></i> <span class="network-name">Prizes</span></a>
                     </li>
                 </ul>
-            	</br>
+                </br>
                 <ul class="list-inline banner-social-buttons">
                     <li>
                         <a href="#YLYP" class="page-scroll btn btn-default btn-lg"><i class="fa fa-users"></i> <span class="network-name">YLYP</span></a>
@@ -132,7 +137,58 @@
                         <a href="#ticket" class="page-scroll btn btn-default btn-lg"><i class="fa fa-ticket"></i> <span class="network-name">Tickets</span></a>
                     </li>
                 </ul>
+            </section>
+            <!-- /.buttonsSection -->
+
+            <br>
+
+            <!-- Page Features -->
+            <div class="row text-center">
+
+                <div class="col-md-3 col-sm-6 hero-feature">
+                    <div id = "location" class="thumbnail">
+                        <img src="img/mapSmall2.png" alt="">
+                        <div class="caption">
+                            <h3>Location</h3>
+                            <p>3512 Pleasant Valley Rd <br> Nashville, TN 37204</p>
+                            <p>
+                                <a href="https://www.google.com/maps/place/3512+Pleasant+Valley+Rd,+Nashville,+TN+37204/@36.1091679,-86.775353,17z/data=!3m1!4b1!4m2!3m1!1s0x886465b65cebdafd:0x13e4b39cab54a4b3" class="btn btn-default">Link to the Googles</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6 hero-feature">
+                    <div class="thumbnail">
+                        <img src="img/desscode.png" alt="">
+                        <div class="caption">
+                            <h3>Dress Code</h3>
+                            <p>Balck Tie. Suits/tuxes and girl equivalent.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6 hero-feature">
+                    <div class="thumbnail">
+                        <img src="img/date2.png" alt="">
+                        <div class="caption">
+                            <h3>Date & Time</h3>
+                            <p>The party will start at 7. The Casino will open at 7:30 and close at 10:30. Dance party starts at 11:15 and goes until the sun comes up. Come and go as you please!</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-6 hero-feature">
+                    <div class="thumbnail">
+                        <img src="img/nomnom.png" alt="">
+                        <div class="caption">
+                            <h3>Refreshments</h3>
+                            <p>We will not serve any full meals so it is advised to eat dinner before, but we will have plenty of snacks and drinks.</p>
+                        </div>
+                    </div>
+                </div>
             </div>
+            <!-- /.row -->
         </div>
     </section>
 
@@ -151,15 +207,16 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Purchase Ticket on Eventbrite</h2>
-                <p>There are currently three levels of tickets: </p>
+                <hr>
+                <p>Current tickets: </p>
                 <!--put prizes -->
-                <p>Early Bird - General Ticket: $11 </p>
-                <p>Early Bird - Groupie: $25 </p>
-                <p>Early Bird - VIP: $50 </p>
-                <br>
+                <p>Early Bird - <strong> General Ticket: </strong> $11 <br> <small>{ Access to the event and 10 playing chips }</small> </p>
+                <p>Early Bird - <strong> Groupie: </strong> $25 <br> <small>{ Access to the event, 25 playing chips, and 1 drink coupon }</small> </p>
+                <p>Early Bird - <strong> VIP: </strong> $50 <br> <small>{ Access to the event, 60 playing chips, and 1 drink coupon }</small> </p>
+                <hr>
                 <p>What are you waiting for <a href= "https://www.eventbrite.com/e/nashville-young-life-casino-fundraiser-tickets-16243360328">GO buy your ticket!</a></p>
                 <!--make text smaller-->
-                <p>if you don't prices will rise at the door!</p>
+                <small>if you don't prices will rise at the door!</small>
             </div>
         </div>
     </section>
@@ -179,19 +236,36 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Games!</h2>
-                <p>We have all sorts of games!</p>
-                <p>WOO!</p>
+                <p>Traditional Casino Games Include:</p>
                 <ul class="list-inline banner-social-buttons">
                     <li>
-                        <a href="#" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+                        <a href="https://www.youtube.com/watch?v=-9YGKFdP6sY" class="btn btn-default btn-lg"> <span class="network-name">Black Jack</span></a>
                     </li>
                     <li>
-                        <a href="#" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                        <a href="https://www.youtube.com/watch?v=cnm_V7A-G6c" class="btn btn-default btn-lg"> <span class="network-name">Texas Hold'Em</span></a>
                     </li>
                     <li>
-                        <a href="#" class="btn btn-default btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Google+</span></a>
+                        <a href="http://www.wikihow.com/Play-Roulette" class="btn btn-default btn-lg"> <span class="network-name">Roulette</span></a>
+                        <!-- or potentially use https://www.youtube.com/watch?v=JR5JNVxZolU -->
+                        <!-- or potentially use this video https://www.youtube.com/watch?v=n0_TZMnecbE -->
                     </li>
                 </ul>
+                </br>
+                <p>Non-Traditional Casino Games Include:</p>
+                <ul class="list-inline banner-social-buttons">
+                    <li>
+                        <a href="https://xkcd.com/134/" class="btn btn-default btn-lg"> <span class="network-name">Darts</span></a>
+                    </li>
+                    <li>
+                        <a href="https://xkcd.com/668/" class="btn btn-default btn-lg"> <span class="network-name">Spin the Wheel</span></a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/watch?v=alc9IDzwpAI" class="btn btn-default btn-lg"> <span class="network-name">1 minute challenge(s)</span></a>
+                    </li>
+                </ul>
+                </br>
+                <p>... And many more!</p>
+
             </div>
         </div>
     </section>
@@ -209,22 +283,241 @@
     <!-- Prizes Section -->
     <section id="prizes" class="container content-section text-center">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-                <h2>Prizes!</h2>
-                <p>We have all sorts of prizes!</p>
-                <p>WOO!</p>
-                <ul class="list-inline banner-social-buttons">
-                    <li>
-                        <a href="#" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
-                    </li>
-                    <li>
-                        <a href="#" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
-                    </li>
-                    <li>
-                        <a href="#" class="btn btn-default btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Google+</span></a>
-                    </li>
-                </ul>
+            <!-- Header Sports-->
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1 class="page-header">Prizes
+                        <br>
+                        <small class="float-left">Sports</small>
+                    </h1>
+                </div>
             </div>
+            <!-- /.row -->
+
+            <!-- Projects Sports Row -->
+            <div class="row">
+                <div class="col-md-6 portfolio-item">
+                    <a href="#">
+                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    </a>
+                    <h3>
+                        <a href="#">Delanie Walker Signed Football</a>
+                    </h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                </div>
+                <div class="col-md-6 portfolio-item">
+                    <a href="#">
+                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    </a>
+                    <h3>
+                        <a href="#">Front Row Titans Tickets</a>
+                    </h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                </div>
+            </div>
+            <!-- /.row -->
+
+            <!-- Header Music -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1 class="page-header">Prizes
+                        <br>
+                        <small class="float-left">Music</small>
+                    </h1>
+                </div>
+            </div>
+
+            <!-- Projects Music Part 1 Row -->
+            <div class="row">
+                <div class="col-md-6 portfolio-item">
+                    <a href="#">
+                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    </a>
+                    <h3>
+                        <a href="#">Holcomb Swag</a>
+                    </h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                </div>
+                <div class="col-md-6 portfolio-item">
+                    <a href="#">
+                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    </a>
+                    <h3>
+                        <a href="#">Matt Wertz Swag</a>
+                    </h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                </div>
+            </div>
+            <!-- /.row -->
+
+            <!-- Projects Music Part 2 Row -->
+            <div class="row">
+                <div class="col-md-6 portfolio-item">
+                    <a href="#">
+                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    </a>
+                    <h3>
+                        <a href="#">Ben Rector Swag </a>
+                    </h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                </div>
+                <div class="col-md-6 portfolio-item">
+                    <a href="#">
+                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    </a>
+                    <h3>
+                        <a href="#">Concert Tickets**</a>
+                    </h3>
+                    <p>Still trying to secure tickets, so won't say to which concert just yet!</p>
+                </div>
+            </div>
+            <!-- /.row -->
+
+            <!-- Header Cool Items-->
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1 class="page-header">Prizes
+                        <br>
+                        <small class="float-left">Cool Stuff</small>
+                    </h1>
+                </div>
+            </div>
+            <!-- /.row -->
+
+            <!-- Projects Cool Items -->
+            <div class="row">
+                <div class="col-md-6 portfolio-item">
+                    <a href="#">
+                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    </a>
+                    <h3>
+                        <a href="#">GoPro</a>
+                    </h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                </div>
+                <div class="col-md-6 portfolio-item">
+                    <a href="#">
+                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    </a>
+                    <h3>
+                        <a href="#">PS3**</a>
+                    </h3>
+                    <p>This item may change, but it will be something of equal value/nerdy coolness.</p>
+                </div>
+            </div>
+            <!-- /.row -->
+
+            <!-- Header YL Swag -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1 class="page-header">Prizes
+                        <br>
+                        <small class="float-left">Young Life Swag</small>
+                    </h1>
+                </div>
+            </div>
+            <!-- /.row -->
+
+            <!-- Projects YL Swag part2-->
+            <div class="row">
+                <div class="col-md-6 portfolio-item">
+                    <a href="#">
+                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    </a>
+                    <h3>
+                        <a href="#">Guy Swag</a>
+                    </h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                </div>
+                <div class="col-md-6 portfolio-item">
+                    <a href="#">
+                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    </a>
+                    <h3>
+                        <a href="#">Girl Swag</a>
+                    </h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                </div>
+            </div>
+            <!-- /.row -->
+
+            <!-- Projects YL Swag part1 -->
+            <div class="row">
+                <div class="col-md-6 portfolio-item">
+                    <a href="#">
+                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    </a>
+                    <h3>
+                        <a href="#">Cool Swag</a>
+                    </h3>
+                    <p>Posters, mugs, cups, you name it we got it.</p>
+                </div>
+                <div class="col-md-6 portfolio-item">
+                    <a href="#">
+                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    </a>
+                    <h3>
+                        <a href="#">Special Swag</a>
+                    </h3>
+                    <p>To be announced only at the party!</p>
+                </div>
+            </div>
+            <!-- /.row -->
+
+            <!-- Header Male Sale -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <h1 class="page-header">Prizes
+                        <br>
+                        <small>Male Sale</small>
+                    </h1>
+                </div>
+            </div>
+            <!-- /.row -->
+
+            <!-- Projects Male Sale -->
+            <div class="row">
+                <div class="col-md-6 portfolio-item">
+                    <a href="#">
+                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    </a>
+                    <h3>
+                        <a href="#">Double Date - Zettler and Peters</a>
+                    </h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                </div>
+                <div class="col-md-6 portfolio-item">
+                    <a href="#">
+                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    </a>
+                    <h3>
+                        <a href="#">Saturday Morning Epic Brunch Time</a>
+                    </h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                </div>
+            </div>
+            <!-- /.row -->
+            <div class="row">
+                <div class="col-md-6 portfolio-item">
+                    <a href="#">
+                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    </a>
+                    <h3>
+                        <a href="#">Cigar Smoking and Whiskey Tasting</a>
+                    </h3>
+                    <p>What's better than free high quality whiskey and cigars?  </p>
+                </div>
+                <div class="col-md-6 portfolio-item">
+                    <a href="#">
+                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                    </a>
+                    <h3>
+                        <a href="#">Lazer Tag, Sky High, or Bowling with The Crib</a>
+                    </h3>
+                    <p>The Crib: Charles Lindquist (AKA Chuck), Andrew Underhill (AKA Brohill, AKA Cecil, AKA Andy-Pants), Taylor Coston (AKA Alec Coston), Blake Storts (AKA Bay-La-Kay), and Gary Peters (AKA Garbear, AKA Miami Vice). Will treat you and up to 4 friends in an epic adventure in Nashville!</p>
+                </div>
+            </div>
+            <!-- /.row -->
         </div>
     </section>
 
@@ -238,15 +531,15 @@
         </div>
     </section>
 
-    <!-- Map Section -->
-    <!-- <div id="map"></div> -->
-    <section id="map" class="content-section text-center">
-        <div class="map-section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2">
-                    </div>
-                </div>
+    <!-- About Section -->
+    <section id="about" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>About YL Casino Night Fundraiser</h2>
+                <p>The Young Life Casino Night Fundraiser will be a great opportunity to play your favorite casino games including Roullette, Black Jack, Texas Hold'Em and more -- As well as a great opportunity to meet other involved young professionals in the Nashville community.</p>
+                <p>The funds from the night will be used to help send in-need high school students to Young Life Camp. For more info about Young Life check out there site at <a href="http://www.younglife.org">www.younglife.org</a></p>
+                <p>Please purchase tickets by following the <a href="https://www.eventbrite.com/e/nashville-young-life-casino-fundraiser-tickets-16243360328"> link </a></p>
+                <p>For more information about the night please feel free to explore the rest of the page!</p>
             </div>
         </div>
     </section>
