@@ -573,6 +573,7 @@ require('../vendor/autoload.php');
     <footer>
         <div class="container text-center">
             <p>Copyright &copy; <a href="#">Mazzone 2015</a></p>
+            <p>Trademark &copy; <a href="https://www.facebook.com/rachel.downing.5220?ref=br_rs">Rachel Downing 2015</a></p>
             <p>This website is still under construction and is currently just a concept page</p>
         </div>
     </footer>
