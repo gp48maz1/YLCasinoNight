@@ -146,9 +146,9 @@
             <div class="row text-center">
 
                 <div class="col-md-3 col-sm-6 hero-feature">
-                    <div id = "location" class="thumbnail">
+                    <div id = "location" class="thumbnail hero-feature-add">
                         <img src="img/mapSmall2.png" alt="">
-                        <div class="caption">
+                        <div class="caption hero-text">
                             <h3>Location</h3>
                             <p>3512 Pleasant Valley Rd <br> Nashville, TN 37204</p>
                             <p>
@@ -159,9 +159,9 @@
                 </div>
 
                 <div class="col-md-3 col-sm-6 hero-feature">
-                    <div class="thumbnail">
+                    <div class="thumbnail hero-feature-add">
                         <img src="img/desscode.png" alt="">
-                        <div class="caption">
+                        <div class="caption hero-text">
                             <h3>Dress Code</h3>
                             <p>Balck Tie. Suits/tuxes and girl equivalent.</p>
                         </div>
@@ -169,9 +169,9 @@
                 </div>
 
                 <div class="col-md-3 col-sm-6 hero-feature">
-                    <div class="thumbnail">
+                    <div class="thumbnail hero-feature-add">
                         <img src="img/date2.png" alt="">
-                        <div class="caption">
+                        <div class="caption hero-text">
                             <h3>Date & Time</h3>
                             <p>The party will start at 7. The Casino will open at 7:30 and close at 10:30. Dance party starts at 11:15 and goes until the sun comes up. Come and go as you please!</p>
                         </div>
@@ -179,9 +179,9 @@
                 </div>
 
                 <div class="col-md-3 col-sm-6 hero-feature">
-                    <div class="thumbnail">
+                    <div class="thumbnail hero-feature-add">
                         <img src="img/nomnom.png" alt="">
-                        <div class="caption">
+                        <div class="caption hero-text">
                             <h3>Refreshments</h3>
                             <p>We will not serve any full meals so it is advised to eat dinner before, but we will have plenty of snacks and drinks.</p>
                         </div>
@@ -303,7 +303,7 @@
                     <h3>
                         <a href="#">Delanie Walker Signed Football</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                    <p>Want to start and/or add to your exisiting Titan's memoriable/swag? Well you in luck!</p>
                 </div>
                 <div class="col-md-6 portfolio-item">
                     <a href="#">
@@ -312,7 +312,7 @@
                     <h3>
                         <a href="#">Front Row Titans Tickets</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                    <p>We got 2 front row tickets to the Titans Opener game! And they potentially have your name on them!</p>
                 </div>
             </div>
             <!-- /.row -->
@@ -336,7 +336,7 @@
                     <h3>
                         <a href="#">Holcomb Swag</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                    <p>We have signed Vinyl Records from the Holcombs. Along with a few other fun items!</p>
                 </div>
                 <div class="col-md-6 portfolio-item">
                     <a href="#">
@@ -345,7 +345,7 @@
                     <h3>
                         <a href="#">Matt Wertz Swag</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                    <p>Matt Wertz signed CD's and more! </p>
                 </div>
             </div>
             <!-- /.row -->
@@ -359,7 +359,7 @@
                     <h3>
                         <a href="#">Ben Rector Swag </a>
                     </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                    <p>Ben Rector signed CD's and posters! Along with a Ben Rector t-shirt!</p>
                 </div>
                 <div class="col-md-6 portfolio-item">
                     <a href="#">
@@ -391,9 +391,9 @@
                         <img class="img-responsive" src="http://placehold.it/700x400" alt="">
                     </a>
                     <h3>
-                        <a href="#">GoPro</a>
+                        <a href="https://www.youtube.com/watch?v=UAxqf5ZAssw">GoPro</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                    <p>A very very VERY cool camera.</p>
                 </div>
                 <div class="col-md-6 portfolio-item">
                     <a href="#">
@@ -427,7 +427,7 @@
                     <h3>
                         <a href="#">Guy Swag</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                    <p>Shirts, tanks, jackets, hats, ect...</p>
                 </div>
                 <div class="col-md-6 portfolio-item">
                     <a href="#">
@@ -436,7 +436,7 @@
                     <h3>
                         <a href="#">Girl Swag</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                    <p>Shirts, tank-tops, jackets, sweats, ect...</p>
                 </div>
             </div>
             <!-- /.row -->
@@ -484,7 +484,7 @@
                     <h3>
                         <a href="#">Double Date - Zettler and Peters</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                    <p>Ever thought to yourself, 'It would be great if two handsome young bachelors picked me and one my closest friends up in a limo, and bought us dinner?' Well that thought may come to fruition!</p>
                 </div>
                 <div class="col-md-6 portfolio-item">
                     <a href="#">
@@ -493,7 +493,7 @@
                     <h3>
                         <a href="#">Saturday Morning Epic Brunch Time</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae.</p>
+                    <p>Ever wonder what the post party looks like at The Crib? Well one Saturday morning you and your closest 5 friends can join us for our tradition of epic brunch time hosted by: Andrew Underhill, Charles Lindquist, and the Spin master Isaiah Spinney. (Brunch will be cleaned up by Gary Mazzone Peters when he wakes up around 2pm)</p>
                 </div>
             </div>
             <!-- /.row -->
@@ -505,7 +505,7 @@
                     <h3>
                         <a href="#">Cigar Smoking and Whiskey Tasting</a>
                     </h3>
-                    <p>What's better than free high quality whiskey and cigars?  </p>
+                    <p>What's better than free high quality whiskey and cigars? Well learning the ins-and-outs of what your smoking and drinking of course! You and THREE friends spend part of your afternoon smoking and drinking with the past president of Cigar Aficionados, to learn to be more sophisticated drinkers and smokers. </p>
                 </div>
                 <div class="col-md-6 portfolio-item">
                     <a href="#">
@@ -559,7 +559,7 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Getting involved with YLYP</h2>
-                    <p>To get more involved with the Young Life Young Professional community, join the Facebook Group and reach out to Gary Peters.</p>
+                    <p>To get more involved with the Young Life Young Professional community, join the Facebook Group and reach out to the communtiy! (Seriously just message whoever is posting the most).</p>
                     <a href="https://www.facebook.com/groups/1512768959005693/" class="btn btn-default btn-lg">Visit YLYP Facebook Page</a>
             </div>
         </div>
@@ -568,7 +568,8 @@
     <!-- Footer -->
     <footer>
         <div class="container text-center">
-            <p>Copyright &copy; Mazzone 2014</p>
+            <p>Copyright &copy; <a href="#">Mazzone 2015</a></p>
+            <p>This website is still under construction and is currently just a concept page</p>
         </div>
     </footer>
 

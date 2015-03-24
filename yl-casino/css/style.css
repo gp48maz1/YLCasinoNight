@@ -468,4 +468,13 @@ body {
     margin-bottom: 30px;
 }
 
+.hero-feature-add{
+    background-color: black;
+    border: 0px solid #42dca3;
+    color: #42dca3;
+}
+
+.hero-text{
+    color: white !important;
+}
 
