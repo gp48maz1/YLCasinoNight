@@ -45,7 +45,7 @@ require('../vendor/autoload.php');
                     <i class="fa fa-bars"></i>
                 </button>
                 <a class="navbar-brand page-scroll" href="#page-top">
-                    <i class="fa fa-play-circle"></i>  <span class="light">Young Life</span> Young Professional
+                    <i class="fa fa-play-circle"></i>  <span class="light">Young Life</span> YP
                 </a>
             </div>
 
@@ -214,9 +214,9 @@ require('../vendor/autoload.php');
                 <hr>
                 <p>Current tickets prices: </p>
                 <!--put prizes -->
-                <p><strong> General Admission: </strong> $11 <br> <small>{ Access to the event and 10 playing chips }</small> </p>
-                <p><strong> Groupie: </strong> $25 <br> <small>{ Access to the event, 25 playing chips, and 1 drink coupon }</small> </p>
-                <p><strong> VIP: </strong> $50 <br> <small>{ Access to the event, 60 playing chips, and 1 drink coupon }</small> </p>
+                <p><strong> General Admission: </strong> $11 <br> <small>{Access to the event and 10 playing chips}</small> </p>
+                <p><strong> Groupie: </strong> $25 <br> <small>{Access to the event, 25 playing chips, and 1 drink coupon}</small> </p>
+                <p><strong> VIP: </strong> $50 <br> <small>{Access to the event, 60 playing chips, and 1 drink coupon}</small> </p>
                 <hr>
                 <p>What are you waiting for <a href= "https://www.eventbrite.com/e/nashville-young-life-casino-fundraiser-tickets-16243360328">GO buy your ticket!</a></p>
                 <!--make text smaller-->
