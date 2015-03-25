@@ -194,7 +194,7 @@ a:focus {
     height: 70px;
     margin-top: 15px;
     padding: 7px 16px;
-    border: 2px solid black;
+    border: 3px solid black;
     border-radius: 100%!important;
     font-size: 40px;
     color: black;
@@ -208,6 +208,7 @@ a:focus {
 .btn-circle:focus {
     outline: 0;
     color: #fff;
+    border: 2px solid black;
     background: rgba(255,255,255,.1);
 }
 
@@ -477,4 +478,3 @@ body {
 .hero-text{
     color: white !important;
 }
-

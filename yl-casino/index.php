@@ -85,8 +85,8 @@ require('../vendor/autoload.php');
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                         <h1 class="brand-heading">YL Casino Night</h1>
-                        <p class="intro-text">A fundraiser for Young Life.<br>By YLYP.</p>
-                        <a href="#about" class="btn btn-circle page-scroll">
+                        <p class="intro-text next-head">A fundraiser for Young Life.<br>By YLYP.</p>
+                        <a href="#map" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
                         </a>
                     </div>
@@ -167,7 +167,7 @@ require('../vendor/autoload.php');
                         <img src="img/desscode.png" alt="">
                         <div class="caption hero-text">
                             <h3>Dress Code</h3>
-                            <p>Balck Tie. Suits/tuxes and girl equivalent.</p>
+                            <p>Black Tie.</p>
                         </div>
                     </div>
                 </div>
@@ -177,7 +177,7 @@ require('../vendor/autoload.php');
                         <img src="img/date2.png" alt="">
                         <div class="caption hero-text">
                             <h3>Date & Time</h3>
-                            <p>The party will start at 7. The Casino will open at 7:30 and close at 10:30. Dance party starts at 11:15 and goes until the sun comes up. Come and go as you please!</p>
+                            <p>Doors Open at 7:00 PM; Casino runs from 7:30 PM to 10:30 PM; Prize Drawing at 11:15PM with Dance Party following</p>
                         </div>
                     </div>
                 </div>
@@ -187,7 +187,7 @@ require('../vendor/autoload.php');
                         <img src="img/nomnom.png" alt="">
                         <div class="caption hero-text">
                             <h3>Refreshments</h3>
-                            <p>We will not serve any full meals so it is advised to eat dinner before, but we will have plenty of snacks and drinks.</p>
+                            <p>Beverages and Hors d'oeuvres will be served.</p>
                         </div>
                     </div>
                 </div>
@@ -210,13 +210,13 @@ require('../vendor/autoload.php');
     <section id="ticket" class="container content-section text-center">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
-                <h2>Purchase Ticket on Eventbrite</h2>
+                <h2>Pre-Order Your Ticket on <a href= "https://www.eventbrite.com/e/nashville-young-life-casino-fundraiser-tickets-16243360328">Eventbrite</a></h2>
                 <hr>
-                <p>Current tickets: </p>
+                <p>Current tickets prices: </p>
                 <!--put prizes -->
-                <p>Early Bird - <strong> General Ticket: </strong> $11 <br> <small>{ Access to the event and 10 playing chips }</small> </p>
-                <p>Early Bird - <strong> Groupie: </strong> $25 <br> <small>{ Access to the event, 25 playing chips, and 1 drink coupon }</small> </p>
-                <p>Early Bird - <strong> VIP: </strong> $50 <br> <small>{ Access to the event, 60 playing chips, and 1 drink coupon }</small> </p>
+                <p><strong> General Admission: </strong> $11 <br> <small>{ Access to the event and 10 playing chips }</small> </p>
+                <p><strong> Groupie: </strong> $25 <br> <small>{ Access to the event, 25 playing chips, and 1 drink coupon }</small> </p>
+                <p><strong> VIP: </strong> $50 <br> <small>{ Access to the event, 60 playing chips, and 1 drink coupon }</small> </p>
                 <hr>
                 <p>What are you waiting for <a href= "https://www.eventbrite.com/e/nashville-young-life-casino-fundraiser-tickets-16243360328">GO buy your ticket!</a></p>
                 <!--make text smaller-->
@@ -268,7 +268,7 @@ require('../vendor/autoload.php');
                     </li>
                 </ul>
                 </br>
-                <p>... And many more!</p>
+                <p>... And more!</p>
 
             </div>
         </div>
@@ -302,7 +302,7 @@ require('../vendor/autoload.php');
             <div class="row">
                 <div class="col-md-6 portfolio-item">
                     <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <img class="img-responsive" src="img/prizes/signedFootball.jpg" alt="">
                     </a>
                     <h3>
                         <a href="#">Delanie Walker Signed Football</a>
@@ -311,7 +311,7 @@ require('../vendor/autoload.php');
                 </div>
                 <div class="col-md-6 portfolio-item">
                     <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <img class="img-responsive" src="img/prizes/TitansTickets.jpg" alt="">
                     </a>
                     <h3>
                         <a href="#">Front Row Titans Tickets</a>
@@ -335,7 +335,7 @@ require('../vendor/autoload.php');
             <div class="row">
                 <div class="col-md-6 portfolio-item">
                     <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <img class="img-responsive" src="img/prizes/Holcolmb.jpg" alt="">
                     </a>
                     <h3>
                         <a href="#">Holcomb Swag</a>
@@ -344,7 +344,7 @@ require('../vendor/autoload.php');
                 </div>
                 <div class="col-md-6 portfolio-item">
                     <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <img class="img-responsive" src="img/prizes/Wertz.jpg" alt="">
                     </a>
                     <h3>
                         <a href="#">Matt Wertz Swag</a>
@@ -358,7 +358,7 @@ require('../vendor/autoload.php');
             <div class="row">
                 <div class="col-md-6 portfolio-item">
                     <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <img class="img-responsive" src="img/prizes/Rector.jpg" alt="">
                     </a>
                     <h3>
                         <a href="#">Ben Rector Swag </a>
@@ -367,7 +367,7 @@ require('../vendor/autoload.php');
                 </div>
                 <div class="col-md-6 portfolio-item">
                     <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <img class="img-responsive" src="img/prizes/Concert.jpg" alt="">
                     </a>
                     <h3>
                         <a href="#">Concert Tickets**</a>
@@ -392,7 +392,7 @@ require('../vendor/autoload.php');
             <div class="row">
                 <div class="col-md-6 portfolio-item">
                     <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <img class="img-responsive" src="img/prizes/GoPro.jpg" alt="">
                     </a>
                     <h3>
                         <a href="https://www.youtube.com/watch?v=UAxqf5ZAssw">GoPro</a>
@@ -401,7 +401,7 @@ require('../vendor/autoload.php');
                 </div>
                 <div class="col-md-6 portfolio-item">
                     <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <img class="img-responsive" src="img/prizes/Ps3.jpg" alt="">
                     </a>
                     <h3>
                         <a href="#">PS3**</a>
@@ -426,7 +426,7 @@ require('../vendor/autoload.php');
             <div class="row">
                 <div class="col-md-6 portfolio-item">
                     <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <img class="img-responsive" src="img/prizes/GuySwag.jpg" alt="">
                     </a>
                     <h3>
                         <a href="#">Guy Swag</a>
@@ -435,7 +435,7 @@ require('../vendor/autoload.php');
                 </div>
                 <div class="col-md-6 portfolio-item">
                     <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <img class="img-responsive" src="img/prizes/GirlSwag.jpg" alt="">
                     </a>
                     <h3>
                         <a href="#">Girl Swag</a>
@@ -449,7 +449,7 @@ require('../vendor/autoload.php');
             <div class="row">
                 <div class="col-md-6 portfolio-item">
                     <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <img class="img-responsive" src="img/prizes/CoolSwag.jpg" alt="">
                     </a>
                     <h3>
                         <a href="#">Cool Swag</a>
@@ -458,7 +458,7 @@ require('../vendor/autoload.php');
                 </div>
                 <div class="col-md-6 portfolio-item">
                     <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <img class="img-responsive" src="img/prizes/SpecialSwag.jpg" alt="">
                     </a>
                     <h3>
                         <a href="#">Special Swag</a>
@@ -483,7 +483,7 @@ require('../vendor/autoload.php');
             <div class="row">
                 <div class="col-md-6 portfolio-item">
                     <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <img class="img-responsive" src="img/prizes/Date.jpg" alt="">
                     </a>
                     <h3>
                         <a href="#">Double Date - Zettler and Peters</a>
@@ -492,7 +492,7 @@ require('../vendor/autoload.php');
                 </div>
                 <div class="col-md-6 portfolio-item">
                     <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <img class="img-responsive" src="img/prizes/Brunch.jpg" alt="">
                     </a>
                     <h3>
                         <a href="#">Saturday Morning Epic Brunch Time</a>
@@ -504,7 +504,7 @@ require('../vendor/autoload.php');
             <div class="row">
                 <div class="col-md-6 portfolio-item">
                     <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <img class="img-responsive" src="img/prizes/Whiskey.jpg" alt="">
                     </a>
                     <h3>
                         <a href="#">Cigar Smoking and Whiskey Tasting</a>
@@ -513,7 +513,7 @@ require('../vendor/autoload.php');
                 </div>
                 <div class="col-md-6 portfolio-item">
                     <a href="#">
-                        <img class="img-responsive" src="http://placehold.it/700x400" alt="">
+                        <img class="img-responsive" src="img/prizes/Laser.jpg" alt="">
                     </a>
                     <h3>
                         <a href="#">Lazer Tag, Sky High, or Bowling with The Crib</a>
@@ -540,9 +540,9 @@ require('../vendor/autoload.php');
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>About YL Casino Night Fundraiser</h2>
-                <p>The Young Life Casino Night Fundraiser will be a great opportunity to play your favorite casino games including Roullette, Black Jack, Texas Hold'Em and more -- As well as a great opportunity to meet other involved young professionals in the Nashville community.</p>
-                <p>The funds from the night will be used to help send in-need high school students to Young Life Camp. For more info about Young Life check out there site at <a href="http://www.younglife.org">www.younglife.org</a></p>
-                <p>Please purchase tickets by following the <a href="https://www.eventbrite.com/e/nashville-young-life-casino-fundraiser-tickets-16243360328"> link </a></p>
+                <p>1) <strong>Faith:</strong> The YLYP group strives provide in-need high school students the ability to go to Young Life summer camp and grow their relationship with Christ. For more information about Young Life, visit <a href="http://www.younglife.org">www.younglife.org</a></p>
+                <p>2) <strong>Fellowship:</strong> Bring young professionals throughout Nashville together and grow personal and professional relationships.</p>
+                <p>3) <strong>Fun:</strong> Provide a great opportunity to get dressed up and take part in one heck of a night!</p>
                 <p>For more information about the night please feel free to explore the rest of the page!</p>
             </div>
         </div>
