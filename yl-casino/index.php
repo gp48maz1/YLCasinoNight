@@ -544,7 +544,7 @@ require('../vendor/autoload.php');
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>About YL Casino Night Fundraiser</h2>
-                <p>1) <strong>Faith:</strong> The YLYP group strives provide in-need high school students the ability to go to Young Life summer camp and grow their relationship with Christ. For more information about Young Life, visit <a href="http://www.younglife.org">www.younglife.org</a></p>
+                <p>1) <strong>Faith:</strong> The YLYP group strives to provide in-need high school students the ability to go to Young Life summer camp and grow their relationship with Christ. For more information about Young Life, visit <a href="http://www.younglife.org">www.younglife.org</a></p>
                 <p>2) <strong>Fellowship:</strong> Bring young professionals throughout Nashville together and grow personal and professional relationships.</p>
                 <p>3) <strong>Fun:</strong> Provide a great opportunity to get dressed up and take part in one heck of a night!</p>
                 <p>For more information about the night please feel free to explore the rest of the page!</p>
