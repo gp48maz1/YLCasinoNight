@@ -84,7 +84,7 @@ require('../vendor/autoload.php');
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
-                        <h1 class="brand-heading">YL Casino Night</h1>
+                        <h1 style="inline" class="brand-heading"><img src="img/prizes/YoungLife-Primary.png" alt=""> Casino Night</h1>
                         <p class="intro-text next-head">A fundraiser for Young Life.<br>By YLYP.</p>
                         <a href="#map" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
