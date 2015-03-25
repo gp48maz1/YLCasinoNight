@@ -12,10 +12,12 @@ require('../vendor/autoload.php');
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="About YL Casino Night -- 1) Faith: The YLYP group strives provide in-need high school students the ability to go to Young Life summer camp and grow their relationship with Christ. For more information about Young Life, visit www.younglife.org 2) Fellowship: Bring young professionals  throughout Nashville together and grow personal and professional relationships. 3) Fun: Provide a great opportunity to get dressed up and take part in one heck of a night!">
     <meta name="author" content="Mazzone">
+    <meta property="og:image" content="img/casino2.png" / >
+    <meta property="og:description" content="About YL Casino Night -- 1) Faith: The YLYP group strives provide in-need high school students the ability to go to Young Life summer camp and grow their relationship with Christ. For more information about Young Life, visit www.younglife.org 2) Fellowship: Bring young professionals  throughout Nashville together and grow personal and professional relationships. 3) Fun: Provide a great opportunity to get dressed up and take part in one heck of a night!" / >
+    <meta property="og:title" content="Young Life - Fundraiser Casino Night" / >
+    <meta property="og:url" content="https://younglife-fundraiser-casino.herokuapp.com/" / >
 
     <title>Young Life - Fundraiser Casino Night </title>
-
-    <link rel="image_src" src="img/casino2.png" / >
 
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
