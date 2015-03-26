@@ -171,7 +171,7 @@ require('../vendor/autoload.php');
                         <img src="img/desscode.png" alt="">
                         <div class="caption hero-text">
                             <h3>Dress Code</h3>
-                            <p>Black Tie.</p>
+                            <p>Cocktail Attire.</p>
                         </div>
                     </div>
                 </div>
