@@ -49,7 +49,7 @@ require('../vendor/autoload.php');
                     <i class="fa fa-bars"></i>
                 </button>
                 <a class="navbar-brand page-scroll" href="#page-top">
-                    <i class="fa fa-play-circle"></i>  <span class="light">Young Life</span> YP
+                    <i class="fa fa-play-circle"></i><span class="light">Young Life</span> YP
                 </a>
             </div>
 
@@ -89,7 +89,7 @@ require('../vendor/autoload.php');
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                         <h1 style="inline" class="brand-heading"><img src="img/prizes/YoungLife-Primary.png" alt=""><a href="https://www.facebook.com/events/1432680277025087/"> Casino Night</a></h1>
-                        <p class="intro-text next-head"><a href="https://www.eventbrite.com/e/nashville-young-life-casino-fundraiser-tickets-16243360328">Click here to buy tickets!</a><br>By YLYP.</p>
+                        <p class="intro-text next-head"><a href="https://www.eventbrite.com/e/nashville-young-life-casino-fundraiser-tickets-16243360328">Click here to buy tickets!</a><br><a href="#about">By YLYP.</a></p>
                         <a href="#map" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
                         </a>
@@ -548,6 +548,7 @@ require('../vendor/autoload.php');
                 <p>2) <strong>Fellowship:</strong> Bring young professionals throughout Nashville together and grow personal and professional relationships.</p>
                 <p>3) <strong>Fun:</strong> Provide a great opportunity to get dressed up and take part in one heck of a night!</p>
                 <p>For more information about the night please feel free to explore the rest of the page!</p>
+                <a href="https://www.facebook.com/groups/1512768959005693/" class="btn btn-default btn-lg">Visit YLYP Facebook Page</a>
             </div>
         </div>
     </section>
