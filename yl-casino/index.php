@@ -88,8 +88,8 @@ require('../vendor/autoload.php');
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
-                        <h1 style="inline" class="brand-heading"><img src="img/prizes/YoungLife-Primary.png" alt=""> Casino Night</h1>
-                        <p class="intro-text next-head">A fundraiser for Young Life.<br>By YLYP.</p>
+                        <h1 style="inline" class="brand-heading"><img src="img/prizes/YoungLife-Primary.png" alt=""><a href="https://www.facebook.com/events/1432680277025087/"> Casino Night</a></h1>
+                        <p class="intro-text next-head"><a href="https://www.eventbrite.com/e/nashville-young-life-casino-fundraiser-tickets-16243360328">Click here to buy tickets!</a><br>By YLYP.</p>
                         <a href="#map" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
                         </a>
@@ -435,7 +435,7 @@ require('../vendor/autoload.php');
                     <h3>
                         <a href="#">Guy Swag</a>
                     </h3>
-                    <p>Shirts, tanks, jackets, hats, ect...</p>
+                    <p>Shirts, tanks, jackets, hats, etc...</p>
                 </div>
                 <div class="col-md-6 portfolio-item">
                     <a href="#">
@@ -520,7 +520,7 @@ require('../vendor/autoload.php');
                         <img class="img-responsive" src="img/prizes/Laser.jpg" alt="">
                     </a>
                     <h3>
-                        <a href="#">Lazer Tag, Sky High, or Bowling with The Crib</a>
+                        <a href="#">Laser Tag, Sky High, or Bowling with The Crib</a>
                     </h3>
                     <p>The Crib: Charles Lindquist (AKA Chuck), Andrew Underhill (AKA Brohill, AKA Cecil, AKA Andy-Pants), Taylor Coston (AKA Alec Coston), Blake Storts (AKA Bay-La-Kay), and Gary Peters (AKA Garbear, AKA Miami Vice). Will treat you and up to 4 friends in an epic adventure in Nashville!</p>
                 </div>
