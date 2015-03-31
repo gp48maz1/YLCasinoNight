@@ -222,7 +222,7 @@ require('../vendor/autoload.php');
                 <p><strong> Groupie: </strong> $25 <br> <small>{Access to the event, 25 playing chips, and 1 drink coupon}</small> </p>
                 <p><strong> VIP: </strong> $50 <br> <small>{Access to the event, 60 playing chips, and 1 drink coupon}</small> </p>
                 <hr>
-                <p>What are you waiting for <a href= "https://www.eventbrite.com/e/nashville-young-life-casino-fundraiser-tickets-16243360328">GO buy your ticket!</a></p>
+                <p>Additional chips are also available for purchase at the door, but what are you waiting for <a href= "https://www.eventbrite.com/e/nashville-young-life-casino-fundraiser-tickets-16243360328">GO buy your ticket!</a></p>
                 <!--make text smaller-->
                 <small>if you don't prices will rise at the door!</small>
             </div>
