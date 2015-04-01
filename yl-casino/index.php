@@ -88,7 +88,7 @@ require('../vendor/autoload.php');
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
-                        <h1 style="inline" class="brand-heading"><img src="img/prizes/YoungLife-Primary.png" alt=""><a href="https://www.facebook.com/events/1432680277025087/"> Casino Night</a></h1>
+                        <h1 style="inline" class="brand-heading"><img src="img/YLPrimary.png" alt=""><a href="https://www.facebook.com/events/1432680277025087/"> Casino Night</a></h1>
                         <p class="intro-text next-head"><a href="https://www.eventbrite.com/e/nashville-young-life-casino-fundraiser-tickets-16243360328">Click here to buy tickets!</a><br><a href="#about">By YLYP.</a></p>
                         <a href="#map" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
